@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ensak from '../../images/cropped-ensak-logo.png'
+import ensak from '../../images/queen.png'
 const Header = () => {
   return (
     <nav role="navigation" style={{boxSizing: 'border-box', backgroundColor: 'rgb(111 193 189)', display: 'flex', WebkitBoxPack: 'center', justifyContent: 'center', padding: '0px 20px', transition: 'background-color 0.2s ease 0s', margin: '0px', border: '0px none rgb(58, 58, 58)', font: '10px / 10px Metropolis', verticalAlign: 'baseline'}}>
